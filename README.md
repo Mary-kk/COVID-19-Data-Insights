@@ -1,5 +1,5 @@
 # COVID-19-Data-Insights
-COVID-19 Data Insights: A Visual Exploration"
+COVID-19 Data Insights: A Visual Exploration
 
 # Project Overview 
 This project analyzes COVID-19 data through insightful visualizations to answer key questions about the pandemic's global impact. With a focus on understanding confirmed cases, deaths, recoveries, and active cases, this analysis utilizes various chart types such as pie charts, bar charts, and donut charts. The goal is to provide actionable insights that can help inform policy decisions and healthcare strategies.
